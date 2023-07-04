@@ -13,7 +13,7 @@ function creativity() {
         setTimeout(run, outTime,c_text_div_sec.substring(0,length*0.8)+"x");outTime+=250;
         setTimeout(run, outTime,c_text_div_sec.substring(0,length*0.8)+"x_");outTime+=250;
         setTimeout(run, outTime,c_text_div_sec.substring(0,length*0.7));outTime+=250;
-        setTimeout(run, outTime,c_text_div_sec.substring(0,length*0.8)+"_");outTime+=250;
+        setTimeout(run, outTime,c_text_div_sec.substring(0,length*0.7)+"_");outTime+=250;
         setTimeout(run, outTime,c_text_div_sec.substring(0,length*0.7));outTime+=250;
         setTimeout(run, outTime,c_text_div_sec.substring(0,length*0.8)+"_");outTime+=250;
         setTimeout(run, outTime,c_text_div_sec);outTime+=250;
